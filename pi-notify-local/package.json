@@ -1,0 +1,8 @@
+{
+  "name": "pi-notify-local",
+  "version": "2.0.0",
+  "private": true,
+  "description": "Two desktop notifications for the pi coding agent, delivered as OSC 777 to Ghostty: IDLE when the agent waits for input, Needs Approval plus the tool name when a permission prompt is shown.",
+  "license": "MIT",
+  "type": "module"
+}

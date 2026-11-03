@@ -1,0 +1,20 @@
+# 依赖
+node_modules/
+
+# 本地 agent 规范文件，不随仓库分发
+AGENTS.md
+
+# 本地配置与凭据（只提交 config.example.json）
+config.json
+*.local.json
+.env
+.env.*
+
+# 本机 TLS 代理根证书
+ca/
+
+# 编辑器 / 系统
+.DS_Store
+*.swp
+.idea/
+.vscode/

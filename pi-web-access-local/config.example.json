@@ -1,0 +1,4 @@
+{
+  "exaApiKey": "YOUR_EXA_API_KEY",
+  "summaryModel": "provider/model-id"
+}

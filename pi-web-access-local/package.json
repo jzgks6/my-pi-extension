@@ -1,0 +1,14 @@
+{
+  "name": "pi-web-access-local",
+  "private": true,
+  "type": "module",
+  "description": "Local web search (Exa) and page fetching for the Pi coding agent",
+  "dependencies": {
+    "@mozilla/readability": "^0.6.0",
+    "defuddle": "0.19.3",
+    "linkedom": "^0.16.0",
+    "turndown": "^7.2.0",
+    "undici": "^8.12.3",
+    "unpdf": "^2.1.0"
+  }
+}
